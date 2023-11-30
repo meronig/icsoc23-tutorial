@@ -3,7 +3,7 @@ pragma solidity ^0.8.22;
 
 contract Purchase {
 
-    uint public constant price = 50000000000;
+    uint public constant price = 500000000000;
     
     address public buyer;
     address public seller;
